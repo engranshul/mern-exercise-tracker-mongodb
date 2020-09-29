@@ -4,7 +4,7 @@
   with backend..both frontend and backend have been created as a part of 
   one project
 * creating navbar with the help of react and bootstrap and in each navbar
-  this is a form that makes request to a particular backend api upon 
+  there is a form that makes request to a particular backend api upon 
   submission
 * concept that data that is accessed together should be stored together
 * mongo db atlas : cloud mongo database
